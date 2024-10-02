@@ -1,6 +1,6 @@
 # Meet Kothari
 
-👋 Hi, I'm Meet Kothari! A Data Engineer with 1.6+ years of experience in building and optimizing data pipelines, managing large-scale systems, and creating data-driven solutions. I'm passionate about backend development and data engineering, with hands-on expertise in Python, Flask, and big data tools like Apache Airflow and Apache Spark. My goal is to leverage cloud technologies and innovative approaches to optimize processes and deliver impactful, scalable solutions.
+👋 Hi, I'm Meet Kothari! A Data Engineer with 1+ years of experience in building and optimizing data pipelines, managing large-scale systems, and creating data-driven solutions. I'm passionate about backend development and data engineering, with hands-on expertise in Python, Flask, and big data tools like Apache Airflow and Apache Spark. My goal is to leverage cloud technologies and innovative approaches to optimize processes and deliver impactful, scalable solutions.
 
 
 ## 🛠️ Skills
