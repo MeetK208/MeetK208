@@ -16,7 +16,7 @@
 
 📍 **Ahmedabad, Gujarat**  
 📧 meetkothari208@gmail.com | 📱 8200868172  
-[LinkedIn](meetkothari208@gmail.com) | [GitHub](https://github.com/MeetK208) | [Leetcode](https://leetcode.com/u/Meet_208/)
+[LinkedIn](https://www.linkedin.com/in/meetkothari208/) | [GitHub](https://github.com/MeetK208) | [Leetcode](https://leetcode.com/u/Meet_208/)
 
 ---
 
