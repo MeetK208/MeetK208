@@ -66,7 +66,7 @@ Developed a machine learning model and web app to predict house prices based on 
 
 - Big Data Technologies
 - Advanced Data Pipeline Optimization
-- Machine Learning Algorithms (e.g., XGBoost)
+- Machine Learning Algorithms
 - System Design and Distributed Systems Architecture
 
 
